@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Account;
 
-public class Program {
+public class Sistema_Bancario {
 
 	public static void main(String[] args) {
 
